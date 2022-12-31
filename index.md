@@ -2,13 +2,13 @@
 
 ### EDUCATION
 ---
-- Ph.D. of Science *09/2020 – present*  
+- **Ph.D. of Science** *09/2020 – present*  
   Major in Cartography and Geographic Information Systems  
   School of Geographic Sciences, East China Normal University, Shanghai, China
-- Master of Science *09/2017 – 07/2020*  
+- **Master of Science** *09/2017 – 07/2020*  
   Major in Cartography and Geographic Information Systems  
   School of Geography and Tourism, Anhui Normal University, Anhui, China
-- Bachelor of Science *09/2012 – 07/2016*  
+- **Bachelor of Science** *09/2012 – 07/2016*  
   Major in Cartography and Geographic Information Systems  
   School of Geography and Urban Planning, Chizhou University, Anhui, China
 
