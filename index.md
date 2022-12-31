@@ -9,7 +9,7 @@
   Major in Cartography and Geographic Information Systems  
   School of Geography and Tourism, Anhui Normal University, Anhui, China
 - **Bachelor of Science** *09/2012 – 07/2016*  
-  Major in Cartography and Geographic Information Systems  
+  Major in Geographic Information Systems  
   School of Geography and Urban Planning, Chizhou University, Anhui, China
 
 ### PUBLICATIONS
@@ -50,4 +50,4 @@
 
 ### CONTACT
 ---
-:email: ecnu.giser.tang@gmail.com
+📧 ecnu.giser.tang@gmail.com
