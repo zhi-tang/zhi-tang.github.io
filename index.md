@@ -1,4 +1,3 @@
-## **Zhi Tang**
 
 ### **EDUCATION**
 ---
