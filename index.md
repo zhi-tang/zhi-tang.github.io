@@ -50,4 +50,4 @@
 
 ### **CONTACT**
 ---
-📧 [ecnu.giser.tang@gmail.com](ecnu.giser.tang@gmail.com)
+📧 <ecnu.giser.tang@gmail.com>
