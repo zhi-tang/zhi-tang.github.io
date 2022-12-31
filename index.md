@@ -20,13 +20,34 @@
 
 ### RESEARCH EXPERIENCE
 ---
-- **Research on fine assessment and accounting of ecological assets**
-  *02/2022 – present* Major participant, School of Geographic Sciences, East China Normal University
+- **Research on fine assessment and accounting of ecological assets**  
+  *02/2022 – 12/2022* Major participant, School of Geographic Sciences, East China Normal University  
   > + Writing the project plan assignment documentation.
   > + Proposing an indication system for ecological assets assessment.
   > + Developing a forest aboveground biomass map to evaluate the quality grade of forest ecological asset.
   > + Coordinating and guiding several master students to carry out the project work.
+- **Research on estimation and spatial-temporal variation analysis of vegetation net primary productivity withCASA model in Anhui Province**  
+  *03/2019 – 10/2019* Participant, School of Geography and Tourism, Anhui Normal University  
+  > + Collecting and pre-processing remote sensing data such as gross primary production (MOD17A2) and normalized difference vegetation index (MOD13A2).
+  > + Calculating water use efficiency and temperature vegetation dryness index according to the selected method.
+
+### AWARDS & HONORS
+---
+- *2020* Outstanding post-graduate, Anhui Normal University
+- *2019* First-Class academic scholarship, Anhui Normal University
+
+### SKILLS
+---
+- Proficient in data processing, modelling and visualization by Python.
+- Familiar with large-scale remote sensing data processing by Google Earth Engine.
+- Familiar with several professional software such as ArcGIS, ENVI, QGIS, SPSS, and Google Earth Pro.
+- Proficient in reading English literature and writing English papers.
+
+### ACTIVITIES & SOCIETIES
+---
+- *2021* Personal public welfare works: [ArcGIS video tutorial in Chinese](https://www.bilibili.com/video/BV1w54y1a79R)
+- *2013* President of College Table Tennis Association of Chizhou University
 
 ### CONTACT
-
+---
 :email: ecnu.giser.tang@gmail.com
