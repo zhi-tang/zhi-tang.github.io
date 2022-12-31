@@ -1,12 +1,12 @@
 ## Zhi Tang
 
-一个热爱创作的程序员。
-
-GitHub 主页：[@chen-ni](https://github.com/chen-ni)
-
-
-### 创作平台
-
+### EDUCATION
+---
+- **Ph.D. of Science**
+  *09/2020 – present*, Major in Cartography and Geographic Information Systems
+  School of Geographic Sciences, East China Normal University, Shanghai, China
+  
+  
 可以在以下创作平台找到我：
 
 - 知乎：[倪琛](https://www.zhihu.com/people/voissurtonchemin)
@@ -28,3 +28,7 @@ GitHub 主页：[@chen-ni](https://github.com/chen-ni)
 - 领英：[Chen Ni](https://www.linkedin.com/in/chen-ni-2b40491b6/)
 - 邮箱：nichen301@sina.com
 - 微信：nichen_m
+
+### CONTACT
+
+:email: ecnu.giser.tang@gmail.com
