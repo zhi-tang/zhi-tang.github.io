@@ -31,7 +31,7 @@
   > + Proposing an indication system for ecological assets assessment
   > + Developing a forest aboveground biomass map to evaluate the quality grade of forest ecological asset
   > + Coordinating and guiding several master students to carry out the project work
-- **Research on estimation and spatial-temporal variation analysis of vegetation net primary productivity withCASA model in Anhui Province**    
+- **Research on estimation and spatial-temporal variation analysis of vegetation net primary productivity with CASA model in Anhui Province**    
   *03/2019 – 10/2019*&nbsp;&nbsp;&nbsp;&nbsp;Participant, School of Geography and Tourism, Anhui Normal University  
   
   > + Collecting and pre-processing remote sensing data such as gross primary production (MOD17A2) and normalized difference vegetation index (MOD13A2)
