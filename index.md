@@ -20,7 +20,7 @@
  
 - Huang, J.; Zhang, Y.; Wang, M.; Wang, F.; **Tang, Z.**; He, H. Spatial and Temporal Distribution Characteristics of Drought and its Relationship with Meteorological Factors in Xinjiang in Last 17 Years. *Acta Ecologica Sinica*. 2020,40(3):1077-1088. [Web of science](https://www.webofscience.com/wos/alldb/full-record/CSCD:6674556) 
   
-- Wang, F.; Zhang, Y.; Huang, J.; **Tang, Z.**; He, H.; Wang, Y. Spatio-Temporal Variations in Vegetation Water Use Efficiency and Their Influencing Factors in Anhui Province Based on MODIS Data. *Resources andEnvironment in the Yangtze Basin*. 2019,28(6):1314-1323. [Web of science](https://www.webofscience.com/wos/alldb/full-record/CSCD:6524646)
+- Wang, F.; Zhang, Y.; Huang, J.; **Tang, Z.**; He, H.; Wang, Y. Spatio-Temporal Variations in Vegetation Water Use Efficiency and Their Influencing Factors in Anhui Province Based on MODIS Data. *Resources and Environment in the Yangtze Basin*. 2019,28(6):1314-1323. [Web of science](https://www.webofscience.com/wos/alldb/full-record/CSCD:6524646)
 
 ### **RESEARCH EXPERIENCE**
 ---
