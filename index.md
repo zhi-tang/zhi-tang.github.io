@@ -52,8 +52,7 @@
 ### **ACTIVITIES & SOCIETIES**
 ---
 - *2021*&nbsp;&nbsp;&nbsp;&nbsp;Personal public welfare works: [ArcGIS video tutorial in Chinese](https://www.bilibili.com/video/BV1w54y1a79R)
-- *2013*&nbsp;&nbsp;&nbsp;&nbsp;President of College Table Tennis Association of Chizhou University
 
 ### **CONTACT**
 ---
-📧 <ecnu.giser.tang@gmail.com>
+📧 <zhit01@outlook.com>
